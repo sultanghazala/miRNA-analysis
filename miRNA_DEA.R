@@ -1,6 +1,6 @@
-##====================================##
-##  miRNA based Differential Analysis 
-##====================================##
+##=======================================##
+##  miRNA Differential Expression Analysis 
+##=======================================##
 ## install required packages
 if (!require("BiocManager", quietly = TRUE))
   install.packages("BiocManager")
