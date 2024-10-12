@@ -1,6 +1,6 @@
-##=====================================================##
-##  miRNA based Differential Analysis for RNA-seq Data 
-##=====================================================##
+##====================================##
+##  miRNA based Differential Analysis 
+##====================================##
 ## install required packages
 if (!require("BiocManager", quietly = TRUE))
   install.packages("BiocManager")
